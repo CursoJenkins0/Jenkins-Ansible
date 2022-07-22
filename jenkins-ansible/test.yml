@@ -1,4 +1,0 @@
-- hosts: test1
-  tasks:
-
-    - shell: echo Hello World desde Ansible > /tmp/hello-ansible
