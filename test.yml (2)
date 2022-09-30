@@ -9,5 +9,5 @@
       tags: exec-fallido
 
     - debug:
-        mensaje: "Si me voy a ejecutar"
+        mensaje: "Me voy a ejecutar"
       tags: exec-satisfactorio
